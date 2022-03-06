@@ -1,0 +1,20 @@
+.highlight {
+   background: #fca89f;
+}
+
+.cool {
+   font-size: 1.5rem;
+}
+
+#number2 {
+   color: #5b7ff7;
+   font-weight: bold;
+   font-size: 2rem;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#number4 {
+   background: #86f186;
+   font-weight: bold;
+   font-size: 1.25rem;
+}
