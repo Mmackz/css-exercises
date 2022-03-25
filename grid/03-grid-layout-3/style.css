@@ -17,15 +17,24 @@
 
 .header {
   background-color: #393f4d;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
 }
 
 .logo {
+   justify-self: start;
 }
 
 .menu {
+   display: grid;
+   align-items: center;
 }
 
 .menu ul {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   list-style: none;
+   justify-items: center;
 }
 
 .menu ul,
